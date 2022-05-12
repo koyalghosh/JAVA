@@ -5,7 +5,7 @@
                         count: 1     2      3       4
                     */
 import java.util.Scanner;
-class Series{
+class Series1{
     public static void main(String args[]){
         int n,term,cnt;
         System.out.print("Enter number of terms:- ");
