@@ -1,4 +1,4 @@
-/* Program will print the following output:-
+/* Program will print the following pattern:-
         1
         12
         123 
