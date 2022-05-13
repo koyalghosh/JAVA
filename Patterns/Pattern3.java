@@ -1,4 +1,4 @@
-/*This program will print the following output:- 
+/*This program will print the following pattern:- 
                     1    
                     22   
                     333  
