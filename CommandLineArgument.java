@@ -1,3 +1,5 @@
+//This program will find sum of numbers given during run time in command prompt
+
 class CommandLineArgument{
 	public static void main(String args[]){ //args is an array of string which will convert every coming value to string then receive it
 		int sum=0;
