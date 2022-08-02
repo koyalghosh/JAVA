@@ -3,13 +3,13 @@ package FramePrograms;
 import java.awt.*;
 import java.awt.event.*;
 
-public class Program2 extends Frame implements ActionListener{
+public class ActionListenerTest extends Frame implements ActionListener{
     Button b1,b2;
     TextField t1,t2,t3;
     Label l1,l2,l3;
     Font f1,f2,f3;
 
-    Program2(){
+    ActionListenerTest(){
         setTitle("AVG/SUM");
         GridLayout grid=new GridLayout(4,2);
         f1=new Font("arial",Font.BOLD,20);
@@ -61,6 +61,6 @@ public class Program2 extends Frame implements ActionListener{
         t3.setFont(f3);
     }
     public static void main(String args[]){
-        new Program2();
+        new ActionListenerTest();
     }
 }
